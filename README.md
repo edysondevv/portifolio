@@ -1,4 +1,4 @@
-# Fala, eu sou o Edyson Simeão Ferreira Gomes!
+# Fala, eu sou o Edyson S.
 
 Estudante de *Análise e Desenvolvimento de Sistemas*, apaixonado por tecnologia, programação, segurança da informação e desenvolvimento pessoal.
 
